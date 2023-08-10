@@ -66,16 +66,16 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 ## Evidencias
 
-![](https://github.com/hugoescalpelo/flow3-nodeRed-Docker-Compose/blob/main/imagenes/Screenshot%20from%202023-05-24%2020-41-21.png)
+![](https://github.com/Luneli014/flow3-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-08-09%2018-14-05.png?raw=true)
 
-![](https://github.com/hugoescalpelo/flow3-nodeRed-Docker-Compose/blob/main/imagenes/Screenshot%20from%202023-05-24%2020-42-30.png)
+![](https://github.com/Luneli014/flow3-nodeRed-docker-compose/blob/main/imagenes/Screenshot%20from%202023-08-09%2018-15-02.png?raw=true)
 
 # Notas
 - Este repositorio cuenta con las instrucciones para crear el flow pero también incluye el archivo JSON resultante, así que solo tienes que importarlo a nodeRed.
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
-- [hugoescalpelo.com](https://hugoescalpelo.com/)
-- [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
-- [GitHub](https://github.com/hugoescalpelo)
+Desarrollado por Karen Luna
+
+- [Página en Instagram](https://www.instagram.com/karen.luna14/)
+- [GitHub](https://github.com/Luneli014)
